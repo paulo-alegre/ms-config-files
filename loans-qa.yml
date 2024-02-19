@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Redeem loans related QA APIs "
+  contactDetails:
+    name: "Jessa the Great - QA Lead"
+    email: "jessa@redeem.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
